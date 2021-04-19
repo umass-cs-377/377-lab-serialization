@@ -42,7 +42,7 @@ fstream.cpp
 using namespace std;
 
 int main(int argc, char *argv[]){
-	if (argc != 2){ //Makes sure that the code does not run without a single input
+	if (argc != 2){ //The code will ONLY run if it is given a single input, which is saved to the file
 		cout << "ERROR - NEED SINGLE INPUT" << "\n";
 		return -1;
 	}
