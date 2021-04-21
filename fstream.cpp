@@ -22,7 +22,7 @@ int main(int argc, char *argv[]){
 	cout << "Loading data of length " << load_len << "...\n";
 
 	//Loads the number of bytes specified by the header, pointer has already moved to the start of the message
-	char data_2[load_len-10];
+	char data_2[load_len];
 	disk.read(data_2, load_len);
 	for (int i = 0; i < load_len; i++){
 		cout << data_2[i];
