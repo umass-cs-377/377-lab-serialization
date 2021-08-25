@@ -1,4 +1,4 @@
-# COMPSCI 377 LAB #7: Serialization
+# COMPSCI 377 LAB: Serialization
 
 ## Purpose
 This lab is designed to cover serialization in C++, through a high-level overview and an in-depth look into methods of serialization, specifically fstream in C++. Please make sure that all of your answers to questions in these labs come from work done on the Edlab environment – otherwise, they may be inconsistent results and will not receive points.
