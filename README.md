@@ -1,9 +1,15 @@
 # COMPSCI 377 LAB: Serialization
 
 ## Purpose
-This lab is designed to cover serialization in C++, through a high-level overview and an in-depth look into methods of serialization, specifically fstream in C++. Please make sure that all of your answers to questions in these labs come from work done on the Edlab environment – otherwise, they may be inconsistent results and will not receive points.
+This lab is designed to cover serialization in C++, through a high-level overview and an in-depth look into methods of serialization, specifically fstream in C++. Please make sure that all of your answers to questions in these labs come from work done on the Edlab environment - otherwise, they may be inconsistent results and will not receive points.
 
-Please submit your answers to this lab on Gradescope in the assignment marked “Lab #7’. All answers are due by the time specified on Gradescope. The TA present in your lab will do a brief explanation of the various parts of this lab, but you are expected to answer all questions by yourself. Please raise your hand if you have any questions during the lab section – TAs will be notified you are asking a question. Questions and Parts have a number of points marked next to them to signify their weight in this lab’s final grade. Labs are weighted equally, regardless of their total points.
+The TA present in your lab will do a brief explanation of the various parts of this lab, but you are expected to answer all questions by yourself. Please raise your hand if you have any questions during the lab section. Questions and Parts have a number of points marked next to them to signify their weight in this lab’s final grade.
+
+Please read through this lab and follow the instructions. After you do that, visit Gradescope and complete the questions associated with this lab by the assigned due date.
+
+**You may work in groups up to 3 to complete this lab. Make sure you submit as a group in Gradescope.**
+
+## Setup
 
 Once you have logged in to Edlab, you can clone this repo using
 
