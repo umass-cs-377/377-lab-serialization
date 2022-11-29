@@ -40,7 +40,7 @@ When using fstream, it becomes necessary to keep track of the stream of bits tha
 For an example of fstream being used, please consult the following code. Make sure to read the comments included in the file to gain insight into how it works:
 
 fstream.cpp
-```
+```c++
 #include <string.h>
 #include <fstream>
 #include <iostream>
